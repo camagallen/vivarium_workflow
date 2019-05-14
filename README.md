@@ -1,5 +1,4 @@
 # vivarium_workflow
-
 This repo houses supplementary documentation for IHME's Vivarium modeling framework and Vivarium Public Health extension.   
 
 ## Model Development 
@@ -18,3 +17,4 @@ Accessible project documentation can be used to improve any modeling workflow by
 
 
 ### 4) Use Templated Outputs as a Form of Documentation
+

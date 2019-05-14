@@ -1,17 +1,17 @@
 
+[Return to README](README.md)
+
 # Model Development
 The modeling process is designed to occur in nine phases, 
 with responsibility migrating among the Data Analysts, the Researchers, 
 and the Software Development team. Ideally, one of each (a Researcher, 
 an Analyst, and a Software Developer) will be assigned to each model.
 
-
 ## Generic Modeling Process
 ![modeling overview](./docs_andTemplates/modeling_overview.pdf)
 
 ## Intervention Report 
 The Intervention Report is intended as a living record of model status. It contains the major decisions and rationale as they exist at the end of each phase.
-
 
 ### Intervention Report Template
 

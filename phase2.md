@@ -12,11 +12,11 @@ The Concept Model is the currently planned method for model implementation, form
 # Concept Model Documentation: More Information about the Template
 The following information supplements the templates above.
 
-## Intervention Definition<
+## Intervention Definition
 Provide a high level description of the intervention and what it targets.
 This definition should include the case definition(s) for the intervention and its targets here.&nbsp; These definitions will drive the rest of the modeling process. It should include final outcomes (mortality/disability), diseases, risks, important covariates, and interventions.&nbsp; When thinking about the rest of the model, one&nbsp;should try to keep it as simple as possible while still capturing all the effects of interest.
 
-## Concept Model Diagram&nbsp;<
+## Concept Model Diagram
 This diagram serves as a graphical representation of the&nbsp;model at a high level.&nbsp; Its purpose is as a discussion aid and communication tool.&nbsp; It helps separate the model into pieces that we can talk about concretely and drives the final implementation of the model.
 
 ## Example Concept Diagram
@@ -185,8 +185,10 @@ How do you include it in the simulation?
 (For interactive observers) What columns do they create in the population table?&nbsp; What do the columns mean?
 (For interactive observers) What value pipelines do they create? What do the values coming out of the pipelines mean?
 Is this observer parameterized?&nbsp; If so, what parameters are available.
-<h1 style="margin-left: 30.0px;">Model Development Meeting(s)
-Once the researcher completes a draft of the Concept Model &nbsp;the intervention literature and GBD models involved,&nbsp;reach out to the team's Project Officer to schedule a Concept Model Development Meeting.&nbsp;<br /><br />This is a formal design meeting with the following goals:
+# Model Development Meeting(s)
+Once the researcher completes a draft of the Concept Model &nbsp;the intervention literature and GBD models involved,&nbsp;reach out to the team's Project Officer to schedule a Concept Model Development Meeting.&nbsp;
+
+This is a formal design meeting with the following goals:
 <ol>
 <li style="list-style-type: none;background-image: none;">
 <ol>

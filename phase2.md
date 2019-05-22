@@ -4,8 +4,8 @@
 The Concept Model is the currently planned method for model implementation, formalized in the <em>Concept Model Document</em> (see below). It is intended first as an agreement between the Software Engineer and Researcher that defines the requirement of the model. Over the course of the research process, the Concept Model (and Document) may evolve as troubleshooting is required, but any changes should be immediately discussed and agreed upon by the interested parties.
 
 ## Concept Model Templates
-[Researcher Template](docs_andTemplates/concept_model_researcher_template.docx)
-[Engineer Template](docs_andTemplates/concept_model_software_dev_template.docx)
+[Researcher Template](docs_andTemplates/concept_model_researcher_template.pdf)
+[Engineer Template](docs_andTemplates/concept_model_software_dev_template.pdf)
 [Concept Model Example (Researcher)](docs_andTemplates/BFP_concept_model_example_Researcher.pdf)
 
 

@@ -8,7 +8,7 @@ The longest and most critical stage in the modeling process is the background re
 Systematic Searches are intended as a rapid method for determining the viability of an approach (i.e. &quot;is there enough reliable evidence to build a model using this method?&quot;). Unlike a Systematic Review, the goal of the systematic search is not to track details. Rather, the goal is to track what <strong>type</strong> of information is available and where. Often this search will reveal that not enough research has been done. However, if enough information can be found, it will already contain a number of references that can be included in the systematic review.
 
 ### Systematic Search Template
-[Systematic Search](docs_andTemplates/Systematic_Search.md)
+[Systematic Search](docs_andTemplates/Systematic_Search.pdf)
 
 ## GBD Causes and Risk Factors
 For intervention modeling in Vivarium, each intervention must be tied to at least one GBD cause and/or risk factor. You should review how GBD handles the outcomes of the intervention.
